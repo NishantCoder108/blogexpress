@@ -1,0 +1,15 @@
+.col{
+    color: rgb(241, 241, 241);
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/08/05/20/sunset-1807524__340.jpg);
+    /* background-position: center; */
+    background-size: cover;
+    background-repeat: no-repeat;
+margin: auto;
+font: 1em sans-serif;
+text-align: center;
+justify-content: center;
+display: flex;
+flex-direction: column;
+margin-top: 20%;
+font-family: 'Uchen', serif;
+}
